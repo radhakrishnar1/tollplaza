@@ -1,0 +1,21 @@
+Hi ${firstName},${lastName} :
+
+<br/>
+<br/>
+
+Welcome to Tollplus...!!
+<br/>
+Your registration almost completed, please unlock your account
+ using below details.
+
+<br/>
+Temporary Pwd : ${uPwd}
+
+<br/>
+<a href="http://localhost:8085/unlock?email=${email}">
+Click here to unlock
+</a>
+
+<br/>
+Thanks,<br/>
+TollPlus Team.
